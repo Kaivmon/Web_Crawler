@@ -1,0 +1,11 @@
+C:\Users\alexa\OneDrive\Documents\Code\Learning Projects\Basic Web Crawler\Basic Web Crawler\obj\Debug\Basic Web Crawler.csprojAssemblyReference.cache
+C:\Users\alexa\OneDrive\Documents\Code\Learning Projects\Basic Web Crawler\Basic Web Crawler\obj\Debug\Basic Web Crawler.csproj.CoreCompileInputs.cache
+C:\Users\alexa\OneDrive\Documents\Code\Learning Projects\Basic Web Crawler\Basic Web Crawler\bin\Debug\Basic Web Crawler.exe.config
+C:\Users\alexa\OneDrive\Documents\Code\Learning Projects\Basic Web Crawler\Basic Web Crawler\bin\Debug\Basic Web Crawler.exe
+C:\Users\alexa\OneDrive\Documents\Code\Learning Projects\Basic Web Crawler\Basic Web Crawler\bin\Debug\Basic Web Crawler.pdb
+C:\Users\alexa\OneDrive\Documents\Code\Learning Projects\Basic Web Crawler\Basic Web Crawler\bin\Debug\HtmlAgilityPack.dll
+C:\Users\alexa\OneDrive\Documents\Code\Learning Projects\Basic Web Crawler\Basic Web Crawler\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\alexa\OneDrive\Documents\Code\Learning Projects\Basic Web Crawler\Basic Web Crawler\bin\Debug\HtmlAgilityPack.xml
+C:\Users\alexa\OneDrive\Documents\Code\Learning Projects\Basic Web Crawler\Basic Web Crawler\obj\Debug\Basic Web Crawler.csproj.CopyComplete
+C:\Users\alexa\OneDrive\Documents\Code\Learning Projects\Basic Web Crawler\Basic Web Crawler\obj\Debug\Basic Web Crawler.exe
+C:\Users\alexa\OneDrive\Documents\Code\Learning Projects\Basic Web Crawler\Basic Web Crawler\obj\Debug\Basic Web Crawler.pdb
